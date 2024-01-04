@@ -1,0 +1,1001 @@
+Order_Quantity,Vendor_ID,Prior_Delivery_Time,Conditions,Delivery_Distance_Km,Weather_Condition,Lateness
+14,APA,7 days,Burst Tires,215,Cloudy,Yes
+3,GSP,7 days,Smooth,212,Sunny,Yes
+9,APA,6 days,Burst Tires,441,Rainy,Yes
+16,APA,7 days,Traffic Jams,209,Cloudy,Yes
+15,3KOM,3 days,Without Obstacles,392,Sunny,No
+13,GSP,3 days,Without Obstacles,359,Rainy,No
+16,3KOM,4 days,Burst Tires,395,Sunny,Yes
+19,APA,5 days,Traffic Jams,376,Stormy,No
+18,3KOM,2 days,Smooth,279,Cloudy,Yes
+4,3KOM,4 days,Smooth,211,Cloudy,Yes
+17,3KOM,6 days,Smooth,498,Rainy,Yes
+16,APA,4 days,Without Obstacles,365,Sunny,No
+13,GSP,1 days,Smooth,306,Cloudy,Yes
+2,GSP,4 days,Burst Tires,295,Sunny,Yes
+16,APA,5 days,Without Obstacles,296,Stormy,No
+17,3KOM,6 days,Accidents,423,Cloudy,Yes
+4,APA,1 days,Accidents,243,Rainy,Yes
+13,APA,5 days,Burst Tires,222,Cloudy,Yes
+4,GSP,1 days,Accidents,321,Sunny,Yes
+7,APA,4 days,Traffic Jams,334,Cloudy,Yes
+3,3KOM,3 days,Burst Tires,332,Cloudy,Yes
+12,APA,6 days,Without Obstacles,114,Stormy,No
+20,GSP,6 days,Smooth,168,Rainy,Yes
+20,APA,7 days,Smooth,159,Rainy,Yes
+2,GSP,6 days,Accidents,293,Rainy,Yes
+10,3KOM,4 days,Traffic Jams,110,Sunny,Yes
+6,GSP,4 days,Burst Tires,104,Sunny,Yes
+3,GSP,3 days,Burst Tires,197,Stormy,No
+8,GSP,4 days,Accidents,122,Rainy,Yes
+11,APA,4 days,Traffic Jams,164,Cloudy,Yes
+10,APA,7 days,Traffic Jams,189,Stormy,No
+20,GSP,7 days,Smooth,299,Cloudy,Yes
+12,GSP,1 days,Traffic Jams,177,Stormy,No
+3,APA,3 days,Traffic Jams,206,Cloudy,Yes
+11,APA,5 days,Burst Tires,172,Rainy,Yes
+3,3KOM,1 days,Without Obstacles,155,Stormy,No
+16,GSP,2 days,Without Obstacles,327,Cloudy,No
+10,APA,2 days,Smooth,301,Stormy,No
+16,GSP,4 days,Traffic Jams,225,Stormy,No
+15,3KOM,5 days,Traffic Jams,455,Sunny,Yes
+2,GSP,3 days,Smooth,319,Sunny,Yes
+1,GSP,2 days,Traffic Jams,305,Sunny,Yes
+13,APA,4 days,Accidents,168,Stormy,No
+15,3KOM,3 days,Without Obstacles,311,Sunny,No
+11,APA,6 days,Burst Tires,218,Sunny,Yes
+13,APA,1 days,Burst Tires,198,Cloudy,Yes
+5,APA,2 days,Accidents,361,Cloudy,Yes
+19,APA,4 days,Without Obstacles,272,Sunny,No
+2,APA,4 days,Without Obstacles,373,Stormy,No
+11,GSP,5 days,Smooth,207,Stormy,No
+14,3KOM,3 days,Accidents,329,Rainy,Yes
+7,APA,1 days,Traffic Jams,257,Stormy,No
+12,3KOM,1 days,Smooth,393,Rainy,Yes
+20,APA,2 days,Without Obstacles,212,Sunny,No
+8,3KOM,1 days,Traffic Jams,272,Sunny,Yes
+16,3KOM,4 days,Accidents,146,Rainy,Yes
+18,APA,3 days,Without Obstacles,256,Rainy,No
+1,3KOM,6 days,Smooth,432,Rainy,Yes
+7,GSP,7 days,Accidents,172,Rainy,Yes
+15,3KOM,5 days,Without Obstacles,440,Stormy,No
+9,GSP,5 days,Traffic Jams,367,Rainy,Yes
+18,APA,2 days,Smooth,393,Stormy,No
+6,GSP,5 days,Burst Tires,197,Rainy,Yes
+7,APA,6 days,Burst Tires,262,Sunny,Yes
+16,APA,7 days,Without Obstacles,223,Stormy,No
+2,APA,3 days,Without Obstacles,315,Rainy,No
+9,3KOM,1 days,Without Obstacles,381,Rainy,No
+3,APA,6 days,Traffic Jams,192,Sunny,Yes
+11,GSP,4 days,Smooth,269,Cloudy,Yes
+18,GSP,6 days,Traffic Jams,371,Cloudy,Yes
+11,3KOM,7 days,Burst Tires,450,Stormy,No
+14,GSP,3 days,Smooth,489,Cloudy,Yes
+8,3KOM,1 days,Traffic Jams,426,Rainy,Yes
+10,3KOM,5 days,Accidents,307,Cloudy,Yes
+20,APA,3 days,Traffic Jams,187,Rainy,Yes
+9,APA,2 days,Without Obstacles,452,Sunny,No
+17,GSP,7 days,Smooth,133,Sunny,Yes
+10,3KOM,7 days,Without Obstacles,179,Cloudy,No
+19,APA,2 days,Without Obstacles,308,Sunny,No
+4,GSP,4 days,Traffic Jams,212,Rainy,Yes
+6,GSP,6 days,Smooth,290,Cloudy,Yes
+14,GSP,6 days,Burst Tires,233,Cloudy,Yes
+15,3KOM,7 days,Traffic Jams,215,Rainy,Yes
+19,GSP,4 days,Traffic Jams,323,Sunny,Yes
+15,APA,3 days,Burst Tires,295,Rainy,Yes
+14,GSP,7 days,Smooth,497,Rainy,Yes
+5,APA,3 days,Burst Tires,131,Sunny,Yes
+2,GSP,4 days,Accidents,457,Cloudy,Yes
+5,APA,2 days,Without Obstacles,285,Cloudy,No
+6,GSP,4 days,Without Obstacles,180,Rainy,No
+14,APA,7 days,Smooth,394,Rainy,Yes
+9,APA,2 days,Accidents,106,Stormy,No
+20,3KOM,6 days,Burst Tires,298,Sunny,Yes
+3,GSP,1 days,Burst Tires,146,Stormy,No
+4,3KOM,4 days,Burst Tires,265,Cloudy,Yes
+20,GSP,4 days,Smooth,117,Sunny,Yes
+14,GSP,5 days,Accidents,233,Sunny,Yes
+14,3KOM,3 days,Smooth,448,Cloudy,Yes
+19,GSP,6 days,Accidents,261,Sunny,Yes
+15,3KOM,1 days,Smooth,291,Stormy,No
+15,APA,1 days,Traffic Jams,197,Sunny,Yes
+16,3KOM,5 days,Burst Tires,496,Cloudy,Yes
+2,GSP,7 days,Accidents,367,Sunny,Yes
+10,3KOM,3 days,Without Obstacles,330,Sunny,No
+2,APA,2 days,Without Obstacles,258,Rainy,No
+8,3KOM,7 days,Accidents,199,Sunny,Yes
+14,GSP,4 days,Burst Tires,389,Rainy,Yes
+19,3KOM,4 days,Smooth,481,Rainy,Yes
+5,GSP,3 days,Traffic Jams,144,Rainy,Yes
+9,3KOM,5 days,Traffic Jams,154,Rainy,Yes
+12,GSP,3 days,Burst Tires,240,Cloudy,Yes
+3,GSP,6 days,Burst Tires,459,Stormy,No
+18,3KOM,5 days,Traffic Jams,156,Stormy,No
+16,APA,2 days,Traffic Jams,455,Rainy,Yes
+1,GSP,3 days,Accidents,132,Stormy,No
+6,GSP,4 days,Without Obstacles,431,Cloudy,No
+1,3KOM,4 days,Smooth,115,Rainy,Yes
+19,3KOM,1 days,Without Obstacles,347,Sunny,No
+19,3KOM,1 days,Burst Tires,364,Rainy,Yes
+9,3KOM,5 days,Without Obstacles,309,Stormy,No
+6,3KOM,5 days,Without Obstacles,469,Stormy,No
+9,APA,3 days,Accidents,276,Rainy,Yes
+9,APA,2 days,Traffic Jams,436,Sunny,Yes
+1,GSP,4 days,Burst Tires,447,Sunny,Yes
+1,APA,4 days,Accidents,233,Stormy,No
+14,APA,3 days,Without Obstacles,476,Cloudy,No
+7,GSP,1 days,Traffic Jams,494,Cloudy,Yes
+9,3KOM,3 days,Traffic Jams,467,Cloudy,Yes
+3,3KOM,6 days,Traffic Jams,290,Rainy,Yes
+6,3KOM,5 days,Without Obstacles,185,Stormy,No
+10,APA,7 days,Burst Tires,465,Sunny,Yes
+10,APA,7 days,Burst Tires,233,Sunny,Yes
+7,GSP,3 days,Without Obstacles,125,Cloudy,No
+19,3KOM,1 days,Without Obstacles,323,Sunny,No
+4,APA,3 days,Burst Tires,156,Stormy,No
+7,GSP,1 days,Burst Tires,178,Stormy,No
+10,3KOM,6 days,Burst Tires,127,Stormy,No
+11,GSP,4 days,Accidents,475,Cloudy,Yes
+7,3KOM,5 days,Traffic Jams,135,Stormy,No
+8,GSP,6 days,Burst Tires,102,Stormy,No
+7,APA,3 days,Burst Tires,485,Stormy,No
+2,APA,3 days,Traffic Jams,218,Sunny,Yes
+19,GSP,2 days,Smooth,174,Rainy,Yes
+12,3KOM,1 days,Without Obstacles,110,Cloudy,No
+18,3KOM,2 days,Accidents,207,Rainy,Yes
+16,APA,4 days,Smooth,132,Rainy,Yes
+14,APA,3 days,Burst Tires,265,Stormy,No
+7,GSP,2 days,Without Obstacles,166,Rainy,No
+11,APA,5 days,Smooth,180,Stormy,No
+18,3KOM,7 days,Without Obstacles,212,Sunny,No
+18,3KOM,3 days,Traffic Jams,246,Cloudy,Yes
+13,GSP,2 days,Accidents,485,Cloudy,Yes
+2,3KOM,7 days,Without Obstacles,338,Cloudy,No
+14,APA,6 days,Accidents,229,Sunny,Yes
+5,3KOM,4 days,Without Obstacles,420,Stormy,No
+1,GSP,1 days,Accidents,188,Sunny,Yes
+1,APA,3 days,Without Obstacles,339,Rainy,No
+15,3KOM,7 days,Traffic Jams,222,Sunny,Yes
+6,APA,6 days,Smooth,276,Cloudy,Yes
+15,GSP,2 days,Accidents,383,Rainy,Yes
+14,APA,7 days,Without Obstacles,242,Rainy,No
+15,3KOM,3 days,Smooth,430,Stormy,No
+5,GSP,3 days,Without Obstacles,431,Stormy,No
+20,APA,6 days,Smooth,393,Cloudy,Yes
+19,GSP,1 days,Traffic Jams,485,Cloudy,Yes
+1,GSP,3 days,Accidents,399,Rainy,Yes
+8,APA,5 days,Traffic Jams,463,Sunny,Yes
+7,APA,7 days,Accidents,448,Rainy,Yes
+3,3KOM,3 days,Without Obstacles,134,Rainy,No
+18,3KOM,5 days,Smooth,395,Cloudy,Yes
+12,GSP,6 days,Traffic Jams,400,Sunny,Yes
+8,APA,7 days,Smooth,132,Rainy,Yes
+11,3KOM,1 days,Smooth,434,Sunny,Yes
+14,APA,5 days,Burst Tires,247,Rainy,Yes
+7,APA,6 days,Smooth,418,Cloudy,Yes
+2,GSP,7 days,Smooth,380,Stormy,No
+15,APA,7 days,Accidents,460,Sunny,Yes
+2,3KOM,2 days,Traffic Jams,439,Stormy,No
+12,APA,3 days,Accidents,203,Sunny,Yes
+5,GSP,6 days,Without Obstacles,137,Rainy,No
+15,3KOM,5 days,Smooth,178,Sunny,Yes
+5,APA,3 days,Traffic Jams,356,Rainy,Yes
+2,3KOM,6 days,Accidents,173,Stormy,No
+11,GSP,1 days,Burst Tires,498,Sunny,Yes
+4,APA,1 days,Traffic Jams,458,Sunny,Yes
+20,APA,4 days,Traffic Jams,191,Rainy,Yes
+5,APA,4 days,Without Obstacles,168,Sunny,No
+13,GSP,5 days,Traffic Jams,121,Sunny,Yes
+10,3KOM,2 days,Smooth,297,Cloudy,Yes
+17,GSP,5 days,Smooth,471,Sunny,Yes
+16,3KOM,5 days,Traffic Jams,324,Stormy,No
+19,3KOM,4 days,Traffic Jams,387,Stormy,No
+12,3KOM,6 days,Without Obstacles,138,Sunny,No
+9,3KOM,6 days,Traffic Jams,485,Cloudy,Yes
+6,3KOM,3 days,Without Obstacles,377,Sunny,No
+18,APA,3 days,Smooth,356,Cloudy,Yes
+5,GSP,6 days,Smooth,120,Rainy,Yes
+17,3KOM,6 days,Without Obstacles,469,Sunny,No
+5,APA,3 days,Burst Tires,460,Stormy,No
+2,APA,3 days,Burst Tires,215,Cloudy,Yes
+11,GSP,7 days,Traffic Jams,180,Sunny,Yes
+19,3KOM,6 days,Burst Tires,266,Rainy,Yes
+19,GSP,6 days,Traffic Jams,479,Stormy,No
+2,GSP,2 days,Accidents,499,Sunny,Yes
+4,APA,2 days,Smooth,422,Cloudy,Yes
+9,3KOM,3 days,Accidents,163,Cloudy,Yes
+18,APA,3 days,Smooth,364,Cloudy,Yes
+13,3KOM,2 days,Without Obstacles,436,Rainy,No
+11,3KOM,7 days,Smooth,259,Cloudy,Yes
+17,3KOM,6 days,Smooth,272,Sunny,Yes
+3,3KOM,1 days,Burst Tires,427,Rainy,Yes
+9,3KOM,4 days,Burst Tires,351,Cloudy,Yes
+19,APA,4 days,Without Obstacles,196,Cloudy,No
+6,APA,5 days,Burst Tires,423,Sunny,Yes
+14,APA,1 days,Without Obstacles,400,Sunny,No
+18,3KOM,6 days,Traffic Jams,413,Cloudy,Yes
+5,3KOM,2 days,Smooth,414,Stormy,No
+10,APA,2 days,Without Obstacles,332,Sunny,No
+19,APA,3 days,Accidents,490,Rainy,Yes
+7,3KOM,5 days,Burst Tires,451,Rainy,Yes
+10,APA,3 days,Traffic Jams,177,Sunny,Yes
+6,APA,4 days,Without Obstacles,469,Cloudy,No
+19,GSP,4 days,Smooth,411,Stormy,No
+14,3KOM,7 days,Smooth,488,Stormy,No
+12,GSP,6 days,Burst Tires,325,Cloudy,Yes
+11,APA,7 days,Without Obstacles,248,Sunny,No
+13,GSP,3 days,Smooth,312,Sunny,Yes
+18,3KOM,6 days,Accidents,237,Cloudy,Yes
+18,APA,4 days,Accidents,334,Rainy,Yes
+3,3KOM,4 days,Traffic Jams,270,Cloudy,Yes
+15,3KOM,2 days,Traffic Jams,459,Sunny,Yes
+2,GSP,5 days,Accidents,472,Stormy,No
+7,3KOM,2 days,Accidents,341,Rainy,Yes
+12,3KOM,3 days,Without Obstacles,283,Cloudy,No
+15,3KOM,4 days,Burst Tires,223,Rainy,Yes
+3,3KOM,7 days,Burst Tires,248,Stormy,No
+4,APA,1 days,Traffic Jams,315,Cloudy,Yes
+2,GSP,7 days,Burst Tires,370,Sunny,Yes
+5,APA,6 days,Traffic Jams,307,Stormy,No
+6,GSP,2 days,Burst Tires,262,Rainy,Yes
+18,3KOM,1 days,Without Obstacles,442,Sunny,No
+1,APA,5 days,Without Obstacles,146,Sunny,No
+16,APA,1 days,Burst Tires,318,Cloudy,Yes
+7,GSP,5 days,Accidents,346,Rainy,Yes
+8,3KOM,3 days,Traffic Jams,496,Cloudy,Yes
+2,APA,5 days,Traffic Jams,104,Cloudy,Yes
+20,GSP,2 days,Burst Tires,180,Stormy,No
+12,GSP,2 days,Burst Tires,400,Sunny,Yes
+15,3KOM,4 days,Without Obstacles,332,Stormy,No
+7,3KOM,5 days,Without Obstacles,469,Sunny,No
+6,APA,5 days,Traffic Jams,185,Stormy,No
+5,APA,2 days,Accidents,485,Stormy,No
+5,3KOM,7 days,Accidents,310,Rainy,Yes
+15,GSP,4 days,Burst Tires,428,Stormy,No
+6,3KOM,5 days,Accidents,143,Stormy,No
+18,APA,2 days,Burst Tires,214,Rainy,Yes
+20,GSP,5 days,Smooth,172,Sunny,Yes
+18,APA,2 days,Accidents,306,Rainy,Yes
+20,GSP,1 days,Smooth,243,Sunny,Yes
+10,GSP,4 days,Smooth,401,Cloudy,Yes
+9,3KOM,6 days,Accidents,409,Rainy,Yes
+11,GSP,7 days,Smooth,287,Stormy,No
+12,APA,7 days,Without Obstacles,136,Stormy,No
+19,GSP,2 days,Traffic Jams,307,Sunny,Yes
+20,3KOM,5 days,Burst Tires,259,Rainy,Yes
+3,3KOM,5 days,Without Obstacles,335,Rainy,No
+19,APA,7 days,Traffic Jams,421,Cloudy,Yes
+16,APA,2 days,Traffic Jams,378,Stormy,No
+15,3KOM,6 days,Without Obstacles,208,Cloudy,No
+5,GSP,3 days,Smooth,453,Stormy,No
+18,GSP,4 days,Without Obstacles,129,Stormy,No
+7,GSP,3 days,Accidents,444,Stormy,No
+16,3KOM,7 days,Traffic Jams,138,Rainy,Yes
+7,APA,2 days,Traffic Jams,339,Cloudy,Yes
+6,3KOM,2 days,Accidents,344,Cloudy,Yes
+17,APA,5 days,Accidents,207,Cloudy,Yes
+10,GSP,7 days,Traffic Jams,110,Cloudy,Yes
+12,3KOM,2 days,Accidents,475,Cloudy,Yes
+15,3KOM,4 days,Traffic Jams,333,Sunny,Yes
+9,GSP,7 days,Burst Tires,434,Sunny,Yes
+3,APA,1 days,Accidents,169,Sunny,Yes
+20,APA,5 days,Accidents,114,Rainy,Yes
+18,3KOM,4 days,Smooth,445,Sunny,Yes
+3,APA,7 days,Smooth,129,Rainy,Yes
+7,GSP,4 days,Without Obstacles,388,Stormy,No
+7,3KOM,7 days,Smooth,134,Stormy,No
+20,APA,7 days,Burst Tires,207,Sunny,Yes
+1,3KOM,2 days,Traffic Jams,176,Stormy,No
+7,GSP,1 days,Smooth,308,Cloudy,Yes
+11,3KOM,7 days,Traffic Jams,203,Sunny,Yes
+19,GSP,6 days,Accidents,225,Rainy,Yes
+2,3KOM,2 days,Burst Tires,242,Cloudy,Yes
+14,APA,7 days,Smooth,280,Rainy,Yes
+18,3KOM,1 days,Traffic Jams,353,Sunny,Yes
+17,3KOM,2 days,Burst Tires,328,Stormy,No
+18,GSP,1 days,Smooth,291,Cloudy,Yes
+14,APA,3 days,Burst Tires,181,Rainy,Yes
+20,APA,6 days,Without Obstacles,479,Stormy,No
+12,GSP,7 days,Smooth,288,Sunny,Yes
+8,3KOM,4 days,Without Obstacles,380,Rainy,No
+9,3KOM,1 days,Smooth,348,Cloudy,Yes
+6,APA,1 days,Without Obstacles,271,Sunny,No
+2,APA,1 days,Without Obstacles,334,Cloudy,No
+1,3KOM,4 days,Burst Tires,272,Cloudy,Yes
+1,GSP,5 days,Accidents,395,Cloudy,Yes
+4,APA,5 days,Traffic Jams,406,Sunny,Yes
+18,3KOM,2 days,Accidents,271,Sunny,Yes
+15,3KOM,6 days,Traffic Jams,492,Sunny,Yes
+16,APA,4 days,Without Obstacles,167,Sunny,No
+13,APA,6 days,Burst Tires,174,Sunny,Yes
+20,3KOM,7 days,Burst Tires,126,Cloudy,Yes
+3,GSP,4 days,Burst Tires,146,Cloudy,Yes
+14,3KOM,2 days,Smooth,305,Sunny,Yes
+11,3KOM,7 days,Traffic Jams,151,Rainy,Yes
+13,3KOM,2 days,Without Obstacles,363,Cloudy,No
+15,APA,5 days,Accidents,482,Stormy,No
+6,APA,1 days,Burst Tires,400,Stormy,No
+4,APA,2 days,Smooth,475,Sunny,Yes
+11,GSP,5 days,Without Obstacles,233,Cloudy,No
+12,GSP,5 days,Smooth,252,Rainy,Yes
+3,APA,4 days,Traffic Jams,187,Stormy,No
+9,3KOM,4 days,Traffic Jams,264,Cloudy,Yes
+17,GSP,5 days,Accidents,287,Rainy,Yes
+4,GSP,7 days,Traffic Jams,489,Rainy,Yes
+1,GSP,4 days,Accidents,287,Stormy,No
+14,GSP,1 days,Without Obstacles,174,Stormy,No
+3,3KOM,2 days,Traffic Jams,248,Stormy,No
+16,APA,7 days,Accidents,203,Sunny,Yes
+10,GSP,4 days,Traffic Jams,416,Sunny,Yes
+16,GSP,2 days,Without Obstacles,325,Rainy,No
+8,APA,3 days,Without Obstacles,442,Stormy,No
+17,GSP,1 days,Burst Tires,103,Cloudy,Yes
+16,GSP,6 days,Burst Tires,417,Cloudy,Yes
+13,GSP,7 days,Smooth,182,Stormy,No
+8,3KOM,4 days,Accidents,451,Cloudy,Yes
+6,GSP,5 days,Without Obstacles,181,Sunny,No
+9,3KOM,7 days,Smooth,426,Cloudy,Yes
+13,3KOM,5 days,Accidents,458,Cloudy,Yes
+11,GSP,5 days,Traffic Jams,203,Stormy,No
+9,3KOM,3 days,Accidents,320,Rainy,Yes
+9,GSP,3 days,Accidents,202,Cloudy,Yes
+1,3KOM,4 days,Smooth,482,Sunny,Yes
+5,APA,5 days,Burst Tires,328,Cloudy,Yes
+18,3KOM,5 days,Accidents,475,Cloudy,Yes
+12,3KOM,4 days,Without Obstacles,206,Rainy,No
+6,GSP,6 days,Accidents,353,Sunny,Yes
+11,3KOM,4 days,Accidents,349,Sunny,Yes
+18,GSP,7 days,Traffic Jams,273,Sunny,Yes
+19,APA,7 days,Accidents,296,Stormy,No
+12,3KOM,3 days,Accidents,192,Stormy,No
+12,APA,3 days,Accidents,131,Rainy,Yes
+2,3KOM,3 days,Accidents,264,Cloudy,Yes
+4,3KOM,6 days,Traffic Jams,227,Sunny,Yes
+16,GSP,3 days,Burst Tires,326,Rainy,Yes
+4,GSP,3 days,Accidents,294,Stormy,No
+19,3KOM,6 days,Burst Tires,192,Sunny,Yes
+17,3KOM,4 days,Smooth,307,Rainy,Yes
+19,3KOM,2 days,Burst Tires,417,Sunny,Yes
+19,3KOM,3 days,Accidents,388,Stormy,No
+6,GSP,3 days,Smooth,196,Rainy,Yes
+12,3KOM,4 days,Without Obstacles,108,Cloudy,No
+2,APA,6 days,Burst Tires,418,Cloudy,Yes
+15,3KOM,2 days,Burst Tires,378,Rainy,Yes
+16,APA,3 days,Without Obstacles,190,Cloudy,No
+17,APA,7 days,Traffic Jams,374,Stormy,No
+7,3KOM,3 days,Smooth,282,Stormy,No
+20,APA,4 days,Without Obstacles,249,Rainy,No
+3,GSP,4 days,Accidents,483,Sunny,Yes
+9,GSP,7 days,Burst Tires,445,Sunny,Yes
+1,GSP,7 days,Smooth,394,Rainy,Yes
+20,3KOM,3 days,Traffic Jams,239,Cloudy,Yes
+14,3KOM,6 days,Burst Tires,284,Rainy,Yes
+13,GSP,6 days,Smooth,418,Stormy,No
+19,3KOM,3 days,Smooth,114,Rainy,Yes
+1,GSP,6 days,Burst Tires,293,Stormy,No
+2,3KOM,7 days,Smooth,312,Sunny,Yes
+5,GSP,6 days,Smooth,438,Sunny,Yes
+6,GSP,1 days,Burst Tires,464,Stormy,No
+3,3KOM,5 days,Without Obstacles,227,Stormy,No
+11,3KOM,5 days,Smooth,210,Stormy,No
+17,GSP,7 days,Burst Tires,307,Cloudy,Yes
+5,3KOM,3 days,Traffic Jams,456,Sunny,Yes
+4,3KOM,3 days,Smooth,240,Cloudy,Yes
+2,3KOM,6 days,Accidents,236,Sunny,Yes
+19,GSP,5 days,Burst Tires,245,Sunny,Yes
+18,GSP,4 days,Accidents,237,Cloudy,Yes
+17,GSP,1 days,Accidents,479,Stormy,No
+10,GSP,6 days,Smooth,479,Sunny,Yes
+13,GSP,5 days,Traffic Jams,390,Sunny,Yes
+3,APA,1 days,Accidents,300,Sunny,Yes
+12,3KOM,2 days,Accidents,338,Stormy,No
+18,3KOM,5 days,Without Obstacles,369,Rainy,No
+12,APA,3 days,Smooth,109,Rainy,Yes
+3,3KOM,4 days,Accidents,342,Sunny,Yes
+7,APA,3 days,Without Obstacles,483,Cloudy,No
+7,APA,7 days,Accidents,494,Stormy,No
+2,3KOM,1 days,Traffic Jams,464,Sunny,Yes
+9,GSP,3 days,Traffic Jams,162,Stormy,No
+11,APA,4 days,Accidents,466,Sunny,Yes
+19,3KOM,3 days,Without Obstacles,179,Sunny,No
+13,3KOM,4 days,Smooth,373,Rainy,Yes
+5,3KOM,5 days,Without Obstacles,192,Rainy,No
+13,GSP,6 days,Traffic Jams,319,Stormy,No
+2,3KOM,4 days,Burst Tires,220,Rainy,Yes
+13,GSP,7 days,Traffic Jams,127,Cloudy,Yes
+16,APA,2 days,Burst Tires,148,Sunny,Yes
+14,GSP,2 days,Burst Tires,142,Cloudy,Yes
+7,3KOM,7 days,Accidents,490,Sunny,Yes
+8,GSP,5 days,Smooth,386,Sunny,Yes
+20,3KOM,2 days,Without Obstacles,134,Stormy,No
+11,GSP,1 days,Smooth,361,Cloudy,Yes
+19,3KOM,3 days,Burst Tires,461,Sunny,Yes
+4,3KOM,4 days,Smooth,416,Cloudy,Yes
+4,APA,1 days,Accidents,479,Rainy,Yes
+4,GSP,4 days,Burst Tires,354,Sunny,Yes
+11,3KOM,1 days,Accidents,140,Cloudy,Yes
+13,APA,5 days,Traffic Jams,494,Rainy,Yes
+6,APA,3 days,Burst Tires,211,Cloudy,Yes
+5,APA,1 days,Traffic Jams,326,Cloudy,Yes
+18,GSP,4 days,Without Obstacles,464,Rainy,No
+20,APA,7 days,Burst Tires,429,Cloudy,Yes
+2,GSP,5 days,Without Obstacles,158,Stormy,No
+12,3KOM,2 days,Burst Tires,366,Sunny,Yes
+8,GSP,6 days,Without Obstacles,219,Cloudy,No
+17,3KOM,1 days,Accidents,441,Rainy,Yes
+8,3KOM,7 days,Smooth,119,Stormy,No
+18,GSP,5 days,Burst Tires,111,Rainy,Yes
+1,GSP,1 days,Accidents,262,Cloudy,Yes
+19,APA,3 days,Accidents,464,Rainy,Yes
+17,GSP,7 days,Burst Tires,136,Stormy,No
+5,GSP,5 days,Smooth,132,Sunny,Yes
+2,GSP,5 days,Accidents,353,Rainy,Yes
+15,GSP,4 days,Traffic Jams,204,Sunny,Yes
+15,3KOM,3 days,Smooth,173,Cloudy,Yes
+6,GSP,7 days,Traffic Jams,324,Stormy,No
+14,APA,4 days,Smooth,208,Sunny,Yes
+18,3KOM,5 days,Traffic Jams,430,Cloudy,Yes
+6,GSP,6 days,Smooth,450,Rainy,Yes
+20,3KOM,5 days,Burst Tires,222,Sunny,Yes
+18,APA,4 days,Traffic Jams,112,Cloudy,Yes
+15,3KOM,6 days,Burst Tires,499,Cloudy,Yes
+15,GSP,4 days,Accidents,228,Cloudy,Yes
+1,3KOM,1 days,Smooth,284,Stormy,No
+8,3KOM,1 days,Without Obstacles,471,Stormy,No
+9,GSP,7 days,Accidents,122,Stormy,No
+11,APA,4 days,Smooth,488,Stormy,No
+9,3KOM,5 days,Traffic Jams,369,Stormy,No
+13,APA,1 days,Accidents,103,Rainy,Yes
+20,GSP,6 days,Burst Tires,410,Rainy,Yes
+12,GSP,4 days,Without Obstacles,350,Sunny,No
+7,3KOM,1 days,Traffic Jams,463,Stormy,No
+20,GSP,5 days,Without Obstacles,396,Sunny,No
+18,3KOM,2 days,Burst Tires,475,Rainy,Yes
+5,APA,7 days,Accidents,347,Sunny,Yes
+18,GSP,1 days,Burst Tires,495,Stormy,No
+3,GSP,3 days,Without Obstacles,376,Stormy,No
+1,3KOM,6 days,Burst Tires,241,Cloudy,Yes
+10,3KOM,4 days,Without Obstacles,336,Cloudy,No
+11,GSP,4 days,Traffic Jams,335,Stormy,No
+9,GSP,1 days,Accidents,480,Sunny,Yes
+10,GSP,5 days,Smooth,368,Rainy,Yes
+4,3KOM,7 days,Burst Tires,138,Rainy,Yes
+1,3KOM,5 days,Burst Tires,495,Cloudy,Yes
+1,GSP,3 days,Burst Tires,220,Stormy,No
+1,GSP,5 days,Burst Tires,267,Rainy,Yes
+7,3KOM,4 days,Traffic Jams,496,Sunny,Yes
+17,3KOM,3 days,Smooth,183,Cloudy,Yes
+12,3KOM,3 days,Burst Tires,299,Cloudy,Yes
+9,3KOM,4 days,Burst Tires,262,Stormy,No
+13,APA,3 days,Smooth,340,Cloudy,Yes
+10,APA,2 days,Traffic Jams,198,Sunny,Yes
+8,GSP,3 days,Traffic Jams,331,Sunny,Yes
+10,3KOM,6 days,Accidents,372,Rainy,Yes
+12,APA,5 days,Smooth,131,Rainy,Yes
+13,GSP,7 days,Accidents,155,Rainy,Yes
+10,3KOM,2 days,Accidents,298,Stormy,No
+17,APA,3 days,Without Obstacles,139,Sunny,No
+11,APA,4 days,Burst Tires,426,Cloudy,Yes
+15,APA,2 days,Burst Tires,411,Rainy,Yes
+19,APA,6 days,Traffic Jams,353,Stormy,No
+3,3KOM,5 days,Smooth,451,Stormy,No
+19,3KOM,7 days,Traffic Jams,308,Stormy,No
+10,GSP,6 days,Without Obstacles,229,Cloudy,No
+20,3KOM,2 days,Burst Tires,172,Cloudy,Yes
+4,APA,2 days,Smooth,260,Sunny,Yes
+3,3KOM,3 days,Traffic Jams,370,Cloudy,Yes
+20,GSP,5 days,Traffic Jams,103,Stormy,No
+11,GSP,7 days,Burst Tires,414,Cloudy,Yes
+13,APA,4 days,Burst Tires,457,Sunny,Yes
+19,3KOM,3 days,Traffic Jams,241,Stormy,No
+18,GSP,1 days,Without Obstacles,115,Cloudy,No
+13,GSP,2 days,Without Obstacles,457,Rainy,No
+16,3KOM,5 days,Accidents,358,Stormy,No
+11,APA,7 days,Without Obstacles,370,Cloudy,No
+12,3KOM,1 days,Traffic Jams,414,Cloudy,Yes
+8,APA,2 days,Burst Tires,417,Cloudy,Yes
+9,3KOM,5 days,Without Obstacles,324,Rainy,No
+2,APA,1 days,Traffic Jams,292,Sunny,Yes
+9,3KOM,5 days,Burst Tires,375,Sunny,Yes
+7,3KOM,4 days,Without Obstacles,403,Rainy,No
+15,3KOM,6 days,Accidents,418,Cloudy,Yes
+4,APA,4 days,Traffic Jams,208,Cloudy,Yes
+17,3KOM,5 days,Smooth,302,Sunny,Yes
+17,GSP,6 days,Smooth,347,Cloudy,Yes
+7,APA,7 days,Accidents,422,Sunny,Yes
+5,APA,5 days,Traffic Jams,284,Cloudy,Yes
+12,GSP,5 days,Smooth,169,Cloudy,Yes
+2,GSP,7 days,Burst Tires,311,Rainy,Yes
+7,GSP,4 days,Traffic Jams,203,Stormy,No
+19,APA,4 days,Accidents,387,Sunny,Yes
+11,3KOM,5 days,Burst Tires,370,Cloudy,Yes
+13,3KOM,6 days,Smooth,442,Stormy,No
+2,APA,6 days,Burst Tires,116,Cloudy,Yes
+20,3KOM,7 days,Burst Tires,445,Cloudy,Yes
+1,GSP,3 days,Traffic Jams,238,Cloudy,Yes
+2,APA,1 days,Accidents,448,Cloudy,Yes
+14,APA,2 days,Burst Tires,263,Sunny,Yes
+20,GSP,1 days,Traffic Jams,486,Cloudy,Yes
+8,3KOM,3 days,Accidents,419,Rainy,Yes
+16,APA,4 days,Smooth,189,Rainy,Yes
+3,3KOM,6 days,Without Obstacles,192,Cloudy,No
+18,3KOM,1 days,Burst Tires,428,Cloudy,Yes
+14,APA,7 days,Smooth,259,Sunny,Yes
+17,3KOM,1 days,Traffic Jams,420,Stormy,No
+5,APA,6 days,Burst Tires,199,Rainy,Yes
+8,3KOM,4 days,Without Obstacles,298,Stormy,No
+7,APA,3 days,Accidents,246,Rainy,Yes
+17,APA,4 days,Smooth,492,Sunny,Yes
+18,GSP,1 days,Smooth,209,Rainy,Yes
+12,GSP,5 days,Without Obstacles,310,Stormy,No
+19,APA,2 days,Smooth,372,Stormy,No
+15,3KOM,2 days,Smooth,302,Sunny,Yes
+4,GSP,5 days,Accidents,499,Rainy,Yes
+7,3KOM,2 days,Without Obstacles,390,Stormy,No
+3,3KOM,5 days,Accidents,158,Sunny,Yes
+2,3KOM,2 days,Traffic Jams,404,Stormy,No
+4,GSP,7 days,Without Obstacles,257,Sunny,No
+18,3KOM,7 days,Burst Tires,355,Cloudy,Yes
+16,GSP,7 days,Traffic Jams,162,Sunny,Yes
+19,GSP,4 days,Traffic Jams,310,Sunny,Yes
+13,3KOM,5 days,Smooth,133,Cloudy,Yes
+3,3KOM,2 days,Accidents,257,Rainy,Yes
+15,GSP,3 days,Burst Tires,300,Sunny,Yes
+20,APA,3 days,Burst Tires,126,Stormy,No
+18,APA,5 days,Smooth,447,Cloudy,Yes
+5,3KOM,7 days,Without Obstacles,149,Stormy,No
+11,3KOM,2 days,Traffic Jams,418,Sunny,Yes
+18,GSP,5 days,Without Obstacles,353,Sunny,No
+12,3KOM,3 days,Accidents,303,Sunny,Yes
+14,3KOM,2 days,Accidents,337,Rainy,Yes
+6,GSP,4 days,Burst Tires,345,Stormy,No
+16,GSP,2 days,Traffic Jams,195,Rainy,Yes
+5,3KOM,7 days,Traffic Jams,182,Sunny,Yes
+9,3KOM,1 days,Traffic Jams,429,Stormy,No
+9,GSP,4 days,Smooth,286,Cloudy,Yes
+4,GSP,2 days,Smooth,168,Cloudy,Yes
+17,3KOM,7 days,Without Obstacles,499,Rainy,No
+7,APA,7 days,Without Obstacles,287,Rainy,No
+20,APA,3 days,Burst Tires,186,Cloudy,Yes
+13,APA,3 days,Smooth,281,Cloudy,Yes
+8,GSP,4 days,Accidents,247,Cloudy,Yes
+20,APA,5 days,Without Obstacles,355,Cloudy,No
+7,APA,5 days,Accidents,157,Stormy,No
+3,GSP,1 days,Without Obstacles,458,Rainy,No
+1,GSP,2 days,Traffic Jams,421,Sunny,Yes
+3,APA,6 days,Accidents,324,Stormy,No
+15,3KOM,7 days,Traffic Jams,355,Stormy,No
+3,APA,2 days,Traffic Jams,187,Rainy,Yes
+20,APA,2 days,Accidents,251,Stormy,No
+2,GSP,4 days,Traffic Jams,444,Sunny,Yes
+17,APA,5 days,Burst Tires,137,Stormy,No
+4,APA,2 days,Smooth,190,Rainy,Yes
+20,APA,5 days,Without Obstacles,119,Stormy,No
+5,GSP,1 days,Burst Tires,440,Stormy,No
+5,3KOM,4 days,Traffic Jams,424,Cloudy,Yes
+4,GSP,1 days,Traffic Jams,270,Stormy,No
+17,GSP,3 days,Traffic Jams,466,Rainy,Yes
+13,3KOM,5 days,Without Obstacles,108,Stormy,No
+5,APA,2 days,Burst Tires,291,Stormy,No
+13,GSP,2 days,Traffic Jams,368,Sunny,Yes
+16,GSP,6 days,Burst Tires,302,Stormy,No
+8,3KOM,3 days,Traffic Jams,244,Sunny,Yes
+11,GSP,3 days,Smooth,125,Rainy,Yes
+9,GSP,2 days,Without Obstacles,466,Stormy,No
+18,GSP,7 days,Accidents,224,Sunny,Yes
+14,GSP,7 days,Accidents,429,Cloudy,Yes
+16,GSP,4 days,Burst Tires,189,Stormy,No
+19,3KOM,1 days,Accidents,443,Sunny,Yes
+18,APA,4 days,Accidents,210,Stormy,No
+5,APA,4 days,Accidents,383,Rainy,Yes
+20,3KOM,3 days,Without Obstacles,244,Stormy,No
+14,APA,2 days,Smooth,447,Stormy,No
+9,3KOM,6 days,Accidents,396,Cloudy,Yes
+1,3KOM,4 days,Smooth,312,Sunny,Yes
+2,GSP,1 days,Smooth,223,Rainy,Yes
+2,3KOM,2 days,Without Obstacles,279,Sunny,No
+9,GSP,4 days,Accidents,235,Sunny,Yes
+3,APA,3 days,Without Obstacles,453,Sunny,No
+2,GSP,3 days,Burst Tires,332,Rainy,Yes
+19,GSP,4 days,Without Obstacles,225,Cloudy,No
+10,GSP,1 days,Smooth,129,Sunny,Yes
+17,3KOM,5 days,Accidents,117,Stormy,No
+1,GSP,5 days,Without Obstacles,478,Stormy,No
+12,3KOM,1 days,Burst Tires,112,Stormy,No
+19,GSP,3 days,Smooth,334,Rainy,Yes
+20,APA,6 days,Accidents,484,Sunny,Yes
+19,GSP,6 days,Burst Tires,223,Cloudy,Yes
+1,GSP,1 days,Burst Tires,288,Cloudy,Yes
+10,APA,7 days,Accidents,269,Cloudy,Yes
+5,3KOM,7 days,Traffic Jams,498,Rainy,Yes
+8,GSP,7 days,Smooth,233,Cloudy,Yes
+6,GSP,2 days,Smooth,265,Cloudy,Yes
+5,GSP,6 days,Burst Tires,451,Sunny,Yes
+11,APA,2 days,Burst Tires,488,Cloudy,Yes
+5,APA,5 days,Burst Tires,170,Rainy,Yes
+8,GSP,1 days,Burst Tires,233,Cloudy,Yes
+19,GSP,4 days,Burst Tires,116,Stormy,No
+2,GSP,1 days,Burst Tires,390,Sunny,Yes
+15,APA,2 days,Without Obstacles,460,Stormy,No
+11,APA,2 days,Burst Tires,325,Rainy,Yes
+6,3KOM,4 days,Burst Tires,148,Sunny,Yes
+18,3KOM,4 days,Burst Tires,294,Sunny,Yes
+2,3KOM,7 days,Burst Tires,398,Stormy,No
+15,GSP,1 days,Without Obstacles,486,Sunny,No
+12,3KOM,7 days,Smooth,440,Cloudy,Yes
+11,3KOM,6 days,Traffic Jams,323,Rainy,Yes
+11,3KOM,5 days,Accidents,368,Cloudy,Yes
+20,APA,6 days,Smooth,322,Sunny,Yes
+4,3KOM,1 days,Traffic Jams,118,Sunny,Yes
+11,APA,5 days,Burst Tires,343,Cloudy,Yes
+7,GSP,2 days,Burst Tires,164,Cloudy,Yes
+2,GSP,7 days,Burst Tires,193,Rainy,Yes
+5,3KOM,3 days,Without Obstacles,100,Sunny,No
+7,3KOM,2 days,Smooth,295,Stormy,No
+12,APA,2 days,Smooth,424,Cloudy,Yes
+5,APA,6 days,Without Obstacles,174,Cloudy,No
+5,3KOM,5 days,Burst Tires,356,Sunny,Yes
+19,3KOM,2 days,Burst Tires,129,Sunny,Yes
+13,3KOM,5 days,Burst Tires,143,Cloudy,Yes
+18,GSP,1 days,Smooth,497,Stormy,No
+2,GSP,1 days,Burst Tires,471,Rainy,Yes
+20,GSP,4 days,Accidents,394,Stormy,No
+2,3KOM,3 days,Traffic Jams,160,Stormy,No
+15,GSP,1 days,Smooth,223,Sunny,Yes
+18,APA,2 days,Traffic Jams,436,Rainy,Yes
+7,3KOM,6 days,Smooth,385,Cloudy,Yes
+4,3KOM,1 days,Without Obstacles,386,Stormy,No
+4,APA,4 days,Smooth,406,Rainy,Yes
+1,3KOM,4 days,Accidents,153,Cloudy,Yes
+14,3KOM,5 days,Without Obstacles,394,Stormy,No
+12,GSP,7 days,Without Obstacles,248,Cloudy,No
+11,3KOM,7 days,Smooth,175,Rainy,Yes
+6,GSP,3 days,Without Obstacles,436,Sunny,No
+5,3KOM,5 days,Accidents,366,Stormy,No
+19,3KOM,4 days,Burst Tires,147,Stormy,No
+13,GSP,3 days,Traffic Jams,297,Rainy,Yes
+2,APA,3 days,Traffic Jams,401,Sunny,Yes
+7,GSP,1 days,Smooth,397,Stormy,No
+6,APA,5 days,Smooth,464,Rainy,Yes
+9,3KOM,7 days,Burst Tires,333,Stormy,No
+10,3KOM,7 days,Accidents,359,Rainy,Yes
+8,APA,2 days,Smooth,310,Cloudy,Yes
+13,APA,2 days,Without Obstacles,440,Cloudy,No
+9,3KOM,3 days,Accidents,261,Stormy,No
+5,APA,1 days,Smooth,178,Rainy,Yes
+1,3KOM,7 days,Burst Tires,442,Sunny,Yes
+5,APA,4 days,Burst Tires,103,Sunny,Yes
+9,3KOM,6 days,Burst Tires,398,Rainy,Yes
+19,APA,7 days,Traffic Jams,483,Stormy,No
+12,GSP,1 days,Smooth,139,Rainy,Yes
+7,GSP,5 days,Accidents,233,Sunny,Yes
+3,3KOM,4 days,Burst Tires,460,Rainy,Yes
+16,3KOM,7 days,Accidents,105,Stormy,No
+15,GSP,3 days,Burst Tires,474,Rainy,Yes
+10,3KOM,4 days,Traffic Jams,328,Sunny,Yes
+9,3KOM,6 days,Burst Tires,164,Stormy,No
+9,3KOM,6 days,Without Obstacles,109,Stormy,No
+1,APA,5 days,Without Obstacles,152,Rainy,No
+19,3KOM,2 days,Burst Tires,401,Stormy,No
+20,3KOM,2 days,Burst Tires,223,Stormy,No
+1,APA,3 days,Burst Tires,483,Cloudy,Yes
+13,3KOM,1 days,Burst Tires,192,Rainy,Yes
+18,GSP,6 days,Smooth,103,Sunny,Yes
+8,APA,4 days,Smooth,291,Cloudy,Yes
+10,APA,7 days,Traffic Jams,144,Sunny,Yes
+1,3KOM,5 days,Traffic Jams,271,Rainy,Yes
+17,3KOM,2 days,Accidents,261,Stormy,No
+10,GSP,1 days,Burst Tires,109,Rainy,Yes
+16,GSP,3 days,Accidents,393,Cloudy,Yes
+3,3KOM,2 days,Without Obstacles,396,Rainy,No
+9,3KOM,2 days,Smooth,445,Stormy,No
+10,3KOM,2 days,Accidents,206,Stormy,No
+3,3KOM,7 days,Accidents,429,Cloudy,Yes
+4,APA,5 days,Smooth,461,Sunny,Yes
+16,APA,6 days,Burst Tires,186,Rainy,Yes
+6,APA,6 days,Without Obstacles,308,Stormy,No
+3,APA,6 days,Traffic Jams,430,Cloudy,Yes
+14,3KOM,4 days,Accidents,375,Rainy,Yes
+15,APA,7 days,Smooth,293,Rainy,Yes
+6,APA,6 days,Traffic Jams,375,Stormy,No
+2,3KOM,4 days,Smooth,353,Stormy,No
+2,3KOM,3 days,Smooth,232,Cloudy,Yes
+2,GSP,7 days,Smooth,228,Rainy,Yes
+15,APA,1 days,Without Obstacles,270,Sunny,No
+7,3KOM,4 days,Without Obstacles,451,Sunny,No
+20,APA,4 days,Without Obstacles,481,Cloudy,No
+16,3KOM,2 days,Burst Tires,473,Cloudy,Yes
+17,GSP,1 days,Accidents,405,Sunny,Yes
+12,APA,3 days,Burst Tires,400,Sunny,Yes
+1,GSP,5 days,Traffic Jams,357,Stormy,No
+4,3KOM,6 days,Without Obstacles,380,Sunny,No
+14,APA,7 days,Traffic Jams,107,Stormy,No
+11,3KOM,1 days,Accidents,349,Rainy,Yes
+10,APA,1 days,Without Obstacles,143,Sunny,No
+13,APA,3 days,Traffic Jams,480,Cloudy,Yes
+14,3KOM,6 days,Without Obstacles,105,Cloudy,No
+2,3KOM,6 days,Accidents,210,Rainy,Yes
+16,3KOM,7 days,Traffic Jams,433,Rainy,Yes
+12,GSP,2 days,Accidents,347,Stormy,No
+6,3KOM,3 days,Smooth,146,Sunny,Yes
+15,APA,4 days,Traffic Jams,458,Sunny,Yes
+17,APA,4 days,Traffic Jams,494,Stormy,No
+14,APA,1 days,Smooth,313,Cloudy,Yes
+2,APA,3 days,Smooth,133,Cloudy,Yes
+7,3KOM,7 days,Without Obstacles,160,Stormy,No
+1,GSP,6 days,Without Obstacles,118,Rainy,No
+8,APA,5 days,Without Obstacles,336,Cloudy,No
+2,3KOM,3 days,Accidents,290,Stormy,No
+14,GSP,4 days,Traffic Jams,179,Sunny,Yes
+10,APA,1 days,Smooth,381,Stormy,No
+19,APA,4 days,Accidents,374,Cloudy,Yes
+13,3KOM,2 days,Burst Tires,324,Rainy,Yes
+14,GSP,6 days,Burst Tires,322,Stormy,No
+14,GSP,3 days,Smooth,263,Stormy,No
+7,GSP,4 days,Burst Tires,283,Stormy,No
+8,APA,5 days,Without Obstacles,432,Rainy,No
+4,APA,5 days,Smooth,146,Cloudy,Yes
+4,3KOM,5 days,Without Obstacles,123,Rainy,No
+13,APA,4 days,Accidents,181,Rainy,Yes
+9,GSP,5 days,Smooth,106,Rainy,Yes
+8,3KOM,3 days,Smooth,118,Sunny,Yes
+15,APA,6 days,Burst Tires,431,Rainy,Yes
+9,GSP,2 days,Without Obstacles,114,Rainy,No
+6,APA,7 days,Without Obstacles,250,Rainy,No
+11,APA,4 days,Smooth,491,Stormy,No
+13,GSP,4 days,Without Obstacles,268,Sunny,No
+9,GSP,7 days,Traffic Jams,139,Cloudy,Yes
+7,3KOM,3 days,Without Obstacles,160,Cloudy,No
+19,3KOM,1 days,Smooth,147,Stormy,No
+2,APA,2 days,Smooth,354,Sunny,Yes
+15,GSP,7 days,Accidents,274,Cloudy,Yes
+10,3KOM,5 days,Traffic Jams,397,Rainy,Yes
+11,GSP,5 days,Burst Tires,173,Rainy,Yes
+19,3KOM,6 days,Accidents,109,Sunny,Yes
+11,GSP,2 days,Smooth,131,Stormy,No
+2,GSP,3 days,Burst Tires,307,Rainy,Yes
+15,APA,5 days,Accidents,139,Cloudy,Yes
+17,3KOM,1 days,Traffic Jams,419,Sunny,Yes
+18,GSP,4 days,Burst Tires,420,Cloudy,Yes
+4,APA,3 days,Burst Tires,369,Rainy,Yes
+12,GSP,7 days,Smooth,175,Cloudy,Yes
+7,GSP,4 days,Traffic Jams,269,Sunny,Yes
+3,APA,3 days,Without Obstacles,277,Rainy,No
+17,GSP,7 days,Without Obstacles,426,Rainy,No
+8,3KOM,7 days,Without Obstacles,296,Rainy,No
+1,APA,1 days,Without Obstacles,188,Rainy,No
+11,APA,1 days,Smooth,218,Sunny,Yes
+7,3KOM,4 days,Accidents,363,Rainy,Yes
+11,APA,1 days,Smooth,156,Sunny,Yes
+8,GSP,4 days,Smooth,239,Stormy,No
+8,3KOM,5 days,Accidents,182,Stormy,No
+12,GSP,2 days,Without Obstacles,166,Cloudy,No
+19,3KOM,1 days,Burst Tires,141,Sunny,Yes
+6,APA,7 days,Without Obstacles,309,Cloudy,No
+11,GSP,1 days,Without Obstacles,249,Cloudy,No
+17,3KOM,3 days,Without Obstacles,381,Sunny,No
+7,APA,4 days,Accidents,457,Cloudy,Yes
+7,3KOM,7 days,Burst Tires,414,Cloudy,Yes
+16,APA,7 days,Burst Tires,412,Rainy,Yes
+7,GSP,5 days,Accidents,175,Stormy,No
+3,3KOM,4 days,Burst Tires,196,Stormy,No
+17,GSP,5 days,Traffic Jams,173,Stormy,No
+14,3KOM,6 days,Traffic Jams,392,Cloudy,Yes
+1,3KOM,6 days,Burst Tires,299,Sunny,Yes
+19,GSP,4 days,Smooth,355,Sunny,Yes
+4,GSP,7 days,Burst Tires,495,Sunny,Yes
+7,GSP,6 days,Traffic Jams,321,Rainy,Yes
+17,GSP,4 days,Accidents,304,Stormy,No
+11,GSP,3 days,Accidents,302,Sunny,Yes
+2,GSP,5 days,Traffic Jams,450,Rainy,Yes
+18,3KOM,5 days,Traffic Jams,409,Sunny,Yes
+6,GSP,2 days,Without Obstacles,416,Sunny,No
+17,GSP,3 days,Accidents,344,Stormy,No
+11,GSP,4 days,Burst Tires,358,Sunny,Yes
+3,3KOM,5 days,Smooth,163,Sunny,Yes
+9,GSP,4 days,Without Obstacles,241,Sunny,No
+17,APA,2 days,Accidents,334,Sunny,Yes
+12,APA,2 days,Smooth,363,Cloudy,Yes
+13,3KOM,4 days,Traffic Jams,352,Sunny,Yes
+5,APA,1 days,Burst Tires,179,Stormy,No
+14,3KOM,1 days,Burst Tires,361,Sunny,Yes
+6,APA,4 days,Accidents,103,Stormy,No
+3,APA,1 days,Traffic Jams,383,Rainy,Yes
+19,APA,5 days,Traffic Jams,247,Stormy,No
+15,APA,1 days,Burst Tires,233,Sunny,Yes
+8,GSP,2 days,Accidents,176,Rainy,Yes
+6,APA,1 days,Without Obstacles,379,Cloudy,No
+17,APA,5 days,Without Obstacles,205,Sunny,No
+1,3KOM,6 days,Burst Tires,290,Rainy,Yes
+14,APA,5 days,Accidents,223,Sunny,Yes
+13,GSP,3 days,Accidents,135,Sunny,Yes
+3,GSP,7 days,Traffic Jams,149,Rainy,Yes
+2,APA,1 days,Without Obstacles,311,Cloudy,No
+1,APA,5 days,Traffic Jams,387,Rainy,Yes
+19,3KOM,4 days,Burst Tires,466,Rainy,Yes
+14,3KOM,2 days,Accidents,406,Rainy,Yes
+20,APA,5 days,Without Obstacles,378,Rainy,No
+2,3KOM,2 days,Accidents,424,Stormy,No
+2,APA,5 days,Smooth,152,Rainy,Yes
+19,APA,7 days,Accidents,103,Stormy,No
+1,3KOM,2 days,Burst Tires,189,Sunny,Yes
+19,GSP,1 days,Without Obstacles,138,Rainy,No
+6,APA,1 days,Without Obstacles,268,Stormy,No
+8,APA,1 days,Without Obstacles,348,Rainy,No
+16,GSP,2 days,Accidents,249,Cloudy,Yes
+13,GSP,3 days,Smooth,246,Cloudy,Yes
+4,3KOM,7 days,Traffic Jams,293,Sunny,Yes
+19,APA,2 days,Accidents,357,Rainy,Yes
+4,3KOM,7 days,Accidents,144,Sunny,Yes
+5,3KOM,2 days,Smooth,183,Stormy,No
+20,APA,5 days,Traffic Jams,402,Rainy,Yes
+20,3KOM,5 days,Accidents,196,Sunny,Yes
+4,3KOM,4 days,Smooth,138,Sunny,Yes
+16,APA,3 days,Traffic Jams,116,Sunny,Yes
+3,3KOM,4 days,Smooth,163,Stormy,No
+14,GSP,1 days,Accidents,310,Rainy,Yes
+7,APA,2 days,Smooth,392,Cloudy,Yes
+3,APA,5 days,Without Obstacles,390,Sunny,No
+20,APA,5 days,Accidents,294,Rainy,Yes
+3,3KOM,5 days,Traffic Jams,466,Cloudy,Yes
+15,3KOM,4 days,Burst Tires,401,Sunny,Yes
+15,APA,3 days,Burst Tires,293,Sunny,Yes
+3,GSP,3 days,Traffic Jams,159,Sunny,Yes
+1,APA,7 days,Smooth,279,Stormy,No
+7,APA,6 days,Accidents,253,Cloudy,Yes
+1,APA,4 days,Accidents,237,Stormy,No
+20,APA,4 days,Accidents,222,Stormy,No
+3,APA,7 days,Accidents,480,Stormy,No
+5,APA,4 days,Accidents,458,Stormy,No
+10,GSP,6 days,Without Obstacles,362,Rainy,No
+19,GSP,4 days,Smooth,139,Rainy,Yes
+5,GSP,7 days,Without Obstacles,481,Sunny,No
+5,GSP,7 days,Burst Tires,301,Cloudy,Yes
+16,3KOM,4 days,Traffic Jams,458,Stormy,No
+9,APA,3 days,Burst Tires,264,Rainy,Yes
+15,APA,2 days,Traffic Jams,293,Sunny,Yes
+5,APA,3 days,Traffic Jams,486,Rainy,Yes
+20,APA,6 days,Accidents,462,Cloudy,Yes
+1,APA,1 days,Traffic Jams,153,Cloudy,Yes
+3,APA,7 days,Without Obstacles,101,Sunny,No
+8,APA,3 days,Smooth,266,Rainy,Yes
+4,3KOM,5 days,Traffic Jams,307,Rainy,Yes
+18,3KOM,3 days,Accidents,267,Sunny,Yes
+11,GSP,3 days,Accidents,233,Stormy,No
+1,3KOM,7 days,Traffic Jams,223,Cloudy,Yes
+5,APA,3 days,Burst Tires,326,Sunny,Yes
+9,3KOM,5 days,Traffic Jams,337,Rainy,Yes
+11,3KOM,3 days,Smooth,346,Sunny,Yes
+17,3KOM,1 days,Traffic Jams,178,Stormy,No
+1,3KOM,1 days,Accidents,257,Rainy,Yes
+17,3KOM,3 days,Without Obstacles,417,Rainy,No
+5,3KOM,1 days,Without Obstacles,300,Rainy,No
+13,3KOM,5 days,Burst Tires,453,Rainy,Yes
+19,APA,4 days,Smooth,148,Rainy,Yes
+9,GSP,2 days,Traffic Jams,166,Stormy,No
+20,APA,6 days,Without Obstacles,391,Sunny,No
+16,APA,4 days,Traffic Jams,398,Stormy,No
+18,APA,6 days,Smooth,304,Stormy,No
+8,APA,5 days,Smooth,152,Rainy,Yes
+19,GSP,5 days,Without Obstacles,357,Cloudy,No
+15,GSP,3 days,Smooth,194,Sunny,Yes
+18,APA,3 days,Without Obstacles,493,Stormy,No
+16,GSP,1 days,Traffic Jams,471,Rainy,Yes
+1,3KOM,6 days,Without Obstacles,379,Sunny,No
+17,3KOM,6 days,Accidents,157,Rainy,Yes
+15,GSP,1 days,Burst Tires,417,Stormy,No
+16,3KOM,1 days,Smooth,163,Cloudy,Yes
+16,3KOM,7 days,Accidents,144,Sunny,Yes
+14,APA,3 days,Traffic Jams,470,Stormy,No
+13,3KOM,6 days,Burst Tires,207,Stormy,No
+10,GSP,4 days,Smooth,495,Stormy,No
+6,GSP,7 days,Accidents,301,Rainy,Yes
+8,APA,6 days,Without Obstacles,318,Stormy,No
+20,GSP,7 days,Traffic Jams,411,Sunny,Yes
+11,GSP,1 days,Traffic Jams,254,Rainy,Yes
+16,GSP,7 days,Burst Tires,149,Cloudy,Yes
+5,3KOM,7 days,Accidents,371,Sunny,Yes
+9,GSP,6 days,Without Obstacles,432,Rainy,No
+14,3KOM,5 days,Without Obstacles,466,Cloudy,No
+4,GSP,6 days,Without Obstacles,292,Rainy,No
+1,3KOM,5 days,Burst Tires,331,Rainy,Yes
+7,APA,6 days,Smooth,418,Stormy,No
+18,GSP,6 days,Without Obstacles,406,Rainy,No
+1,GSP,2 days,Traffic Jams,358,Rainy,Yes
+18,3KOM,3 days,Smooth,201,Cloudy,Yes
+19,GSP,2 days,Without Obstacles,210,Sunny,No
+15,3KOM,6 days,Accidents,180,Rainy,Yes
+7,APA,3 days,Without Obstacles,255,Stormy,No
+13,APA,4 days,Burst Tires,451,Rainy,Yes
+19,3KOM,5 days,Traffic Jams,157,Rainy,Yes
+3,APA,4 days,Accidents,385,Sunny,Yes
+9,APA,4 days,Accidents,253,Rainy,Yes
+18,GSP,4 days,Accidents,228,Rainy,Yes
+15,APA,7 days,Smooth,449,Cloudy,Yes
+20,GSP,5 days,Without Obstacles,136,Sunny,No
+15,3KOM,2 days,Smooth,232,Cloudy,Yes
+12,APA,6 days,Burst Tires,245,Rainy,Yes
+6,GSP,2 days,Smooth,177,Stormy,No
+4,APA,7 days,Traffic Jams,114,Stormy,No
+12,GSP,4 days,Traffic Jams,138,Rainy,Yes
+20,3KOM,7 days,Traffic Jams,370,Rainy,Yes
+17,3KOM,1 days,Traffic Jams,223,Stormy,No
+12,APA,7 days,Traffic Jams,426,Sunny,Yes
+10,GSP,5 days,Burst Tires,296,Sunny,Yes
+19,GSP,1 days,Accidents,464,Rainy,Yes
+15,3KOM,7 days,Without Obstacles,259,Rainy,No
+9,APA,5 days,Smooth,100,Sunny,Yes
+13,3KOM,4 days,Traffic Jams,383,Stormy,No
+8,GSP,4 days,Without Obstacles,349,Cloudy,No
+18,APA,6 days,Burst Tires,352,Sunny,Yes
+20,GSP,7 days,Without Obstacles,367,Cloudy,No
+7,3KOM,2 days,Traffic Jams,265,Stormy,No
+5,APA,6 days,Burst Tires,425,Cloudy,Yes
+10,GSP,1 days,Burst Tires,183,Sunny,Yes
+15,GSP,2 days,Smooth,160,Sunny,Yes
+3,3KOM,1 days,Without Obstacles,490,Rainy,No
+9,APA,3 days,Traffic Jams,311,Sunny,Yes
+18,GSP,5 days,Traffic Jams,404,Stormy,No
+8,3KOM,3 days,Traffic Jams,381,Cloudy,Yes
+10,APA,6 days,Traffic Jams,182,Rainy,Yes
+17,APA,6 days,Accidents,482,Rainy,Yes
+15,3KOM,5 days,Accidents,485,Sunny,Yes
+6,APA,7 days,Traffic Jams,400,Stormy,No
+16,APA,6 days,Smooth,149,Rainy,Yes
+4,3KOM,3 days,Accidents,167,Stormy,No
+13,APA,6 days,Accidents,463,Cloudy,Yes
+4,GSP,6 days,Burst Tires,461,Cloudy,Yes
+17,APA,7 days,Traffic Jams,125,Stormy,No
+19,3KOM,5 days,Without Obstacles,475,Stormy,No
+5,GSP,4 days,Burst Tires,325,Rainy,Yes
+20,APA,7 days,Without Obstacles,124,Sunny,No
+1,GSP,1 days,Traffic Jams,440,Sunny,Yes
+12,3KOM,4 days,Burst Tires,178,Cloudy,Yes
+15,3KOM,6 days,Smooth,463,Stormy,No
+1,3KOM,1 days,Burst Tires,476,Rainy,Yes
+17,3KOM,2 days,Traffic Jams,337,Cloudy,Yes
+11,3KOM,1 days,Burst Tires,136,Rainy,Yes
+9,3KOM,3 days,Smooth,249,Stormy,No
+3,APA,4 days,Without Obstacles,131,Stormy,No
+3,APA,1 days,Without Obstacles,387,Stormy,No
+20,GSP,2 days,Traffic Jams,207,Stormy,No
+12,3KOM,5 days,Smooth,483,Cloudy,Yes
+19,APA,5 days,Without Obstacles,143,Sunny,No
+2,APA,3 days,Accidents,167,Sunny,Yes
+1,3KOM,5 days,Without Obstacles,358,Stormy,No
+14,3KOM,6 days,Accidents,359,Sunny,Yes
+7,GSP,2 days,Without Obstacles,316,Rainy,No
+12,APA,3 days,Accidents,321,Sunny,Yes
+12,3KOM,3 days,Burst Tires,149,Rainy,Yes
+5,3KOM,7 days,Traffic Jams,292,Rainy,Yes
+16,GSP,6 days,Without Obstacles,319,Rainy,No
+12,GSP,3 days,Burst Tires,345,Rainy,Yes
+2,GSP,4 days,Without Obstacles,324,Sunny,No
+5,GSP,4 days,Smooth,396,Cloudy,Yes
+14,APA,6 days,Traffic Jams,453,Sunny,Yes
+6,3KOM,1 days,Without Obstacles,288,Cloudy,No
+6,APA,4 days,Traffic Jams,213,Rainy,Yes
+14,APA,2 days,Accidents,424,Cloudy,Yes
+5,3KOM,1 days,Burst Tires,350,Cloudy,Yes
+8,APA,5 days,Smooth,298,Rainy,Yes
+5,GSP,1 days,Burst Tires,148,Sunny,Yes
+12,3KOM,7 days,Traffic Jams,172,Stormy,No
+5,APA,3 days,Smooth,270,Sunny,Yes
+18,3KOM,1 days,Burst Tires,237,Rainy,Yes
+4,APA,4 days,Smooth,308,Stormy,No
+18,APA,7 days,Without Obstacles,416,Cloudy,No
+4,GSP,2 days,Accidents,133,Cloudy,Yes
+20,GSP,4 days,Traffic Jams,212,Sunny,Yes
+12,3KOM,5 days,Accidents,257,Sunny,Yes
+4,3KOM,7 days,Smooth,363,Sunny,Yes
+19,APA,7 days,Burst Tires,273,Stormy,No
+19,GSP,5 days,Burst Tires,366,Cloudy,Yes
+11,3KOM,3 days,Accidents,267,Rainy,Yes
+11,APA,5 days,Accidents,338,Rainy,Yes
+6,APA,2 days,Accidents,223,Sunny,Yes
+9,GSP,3 days,Smooth,196,Cloudy,Yes
+6,GSP,6 days,Accidents,443,Rainy,Yes
+3,APA,5 days,Accidents,206,Rainy,Yes
+1,APA,7 days,Smooth,451,Rainy,Yes
+14,3KOM,3 days,Burst Tires,375,Cloudy,Yes
